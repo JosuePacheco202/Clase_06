@@ -1,0 +1,33 @@
+h1 {
+    font-size: 4vw;
+    background-image: url("../imagenes/fondo.jpg");
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+}
+
+p {
+    color: aliceblue;
+    border-color: blueviolet;
+    background-color: #00a2ff;
+    border: solid 5px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 5vw 10vw
+}
+
+body {
+    font-family: verdana;
+    background-image: url("../imagenes/fondo_4.jpg");
+}
+
+div {
+    text-align: center;
+    color: aliceblue;
+    background-color: blueviolet;
+    border-color: blueviolet;
+    border: solid 5px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 5vw 10vw
+}
